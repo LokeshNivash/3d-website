@@ -117,6 +117,31 @@ import {
   
   const experiences = [
     {
+      title: "Game Developer and Designer",
+      company_name: "Arcadix ",
+      icon: shopify,
+      iconBg: "#E6DEDD",
+      date: "March 2023",
+      points: [
+        "Utilized industry-standard software tools including Unity, Unreal Engine 5, and Blender.",
+        "Developed proficiency in Unity, working with the Unity Editor and implementing game mechanics",
+        "Explored 3D modeling and animation using Blender, creating intricate assets for game projects.",
+      ],
+    },
+    {
+      title: "3D ANIMATOR",
+      company_name: "3Dezine.fx ",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "August 2022",
+      points: [
+        "Followed design guidelines, asset naming conventions and other technical constraints to produce results compliant with industry and platform standards.",
+        "Conducted modeling and texture optimization for real-time 3D game applications.",
+        "Worked on a variety of projects and applied skills and creativity to real-world design challenges.",
+        "Conceptualized compelling 3D animations, visual effects and motion graphics for logos, symbols, backgrounds and special features.",
+      ],
+    },
+    {
       title: "Manufacturing Intern",
       company_name: "VeluMani Industries",
       icon: starbucks,
@@ -134,7 +159,7 @@ import {
       company_name: "CodeJr ",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jun 2022",
+      date: "June 2022",
       points: [
         "Gained valuable experience in various aspects of graphic design including layout design, typography, and image editing.",
         "Diligently documented work and reflected on experiences throughout the internship.",
