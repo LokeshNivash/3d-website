@@ -21,6 +21,12 @@ import {
     shopify,
     carrent,
     jobit,
+    postereng,
+    screposter,
+    weebposter,
+    drinks,
+    burger,
+    juju,
     website,
     tripguide,
     threejs,
@@ -170,7 +176,7 @@ import {
     },
   ];
   
- const testimonials = [
+  const testimonials = [
     {
       testimonial:
         "Lokesh did an excellent job developing my event website. He was responsive, attentive, and patient throughout the entire process, and he exceeded my expectations with his expertise and dedication.",
@@ -207,27 +213,6 @@ import {
       image: carrent,
       source_code_link: "https://github.com/LokeshNivash/zerog.git",
     },
-    // {
-    //   name: "AUDIO-BOOK",
-    //   description:
-    //     "Installation To read PDF file using Python pip install pypdf2 To Read text (Text to speech) pip install pyaudio pip install pyttsx3 Note: This code can read all the printable text from a PDF file/ Book",
-    //   tags: [
-    //     {
-    //       name: "python",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "pypdf2",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "pyttsx3",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: carrent,
-    //   source_code_link: "https://github.com/LokeshNivash/AUDIO-BOOK",
-    // },
     {
       name: "VOICE ASSISTANT",
       description:
@@ -269,6 +254,112 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://seosmolead.com/",
+    },
+    {
+      name: "",
+      description:
+        "",
+      tags: [
+        {
+          name: "engineers day",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "hotoshop",
+          color: "green-text-gradient",
+        },
+      ],
+      image: postereng,
+      // source_code_link: "https://github.com/LokeshNivash/AUDIO-BOOK",
+    },
+    {
+      name: "",
+      description:
+        "",
+      tags: [
+        {
+          name: "private screening",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "photoshop",
+          color: "green-text-gradient",
+        },
+      ],
+      image: screposter,
+      // source_code_link: "https://github.com/LokeshNivash/AUDIO-BOOK",
+    },
+    {
+      name: "",
+      description:
+        "",
+      tags: [
+        {
+          name: "weebieshub",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "photoshop",
+          color: "green-text-gradient",
+        },
+        {
+          name: "illustration",
+          color: "pink-text-gradient",
+        }
+      ],
+      image: weebposter,
+      // source_code_link: "https://github.com/LokeshNivash/AUDIO-BOOK",
+    },
+    {
+      name: "",
+      description:
+        "",
+      tags: [
+        {
+          name: "garphic design",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "adobe photoshop",
+          color: "green-text-gradient",
+        },
+      ],
+      image: drinks,
+      // source_code_link: "https://github.com/LokeshNivash/AUDIO-BOOK",
+    },
+    {
+      name: "",
+      description:
+        "",
+      tags: [
+        {
+          name: "garphic design",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "adobe photoshop",
+          color: "green-text-gradient",
+        },
+      ],
+      image: burger,
+      // source_code_link: "https://github.com/LokeshNivash/AUDIO-BOOK",
+    },
+    {
+      name: "",
+      description:
+        "",
+      tags: [
+        {
+          name: "anime poster",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "adobe photoshop",
+          color: "green-text-gradient",
+        },
+      ],
+      image: juju,
+      // source_code_link: "https://github.com/LokeshNivash/AUDIO-BOOK",
     },
   ];
   

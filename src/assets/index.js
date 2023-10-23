@@ -30,6 +30,12 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import postereng from "./postereng.webp";
+import weebposter from "./weebposter.webp";
+import screposter from "./screposter.webp";
+import burger from "./burger.webp";
+import drinks from "./drinks.webp";
+import juju from "./juju.png";
 
 export {
   logo,
@@ -61,4 +67,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  postereng,
+  screposter,
+  weebposter,
+  drinks,
+  burger,
+  juju,
 };
